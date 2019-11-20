@@ -43,8 +43,16 @@ public class Constants {
 				public static final String Fly = "Mug";
 			}
 		}
+		public static final class Employees {
+			public static final class Caretakers {
+				public static final String TCO_SUCCESS= "Succes";
+				public static final String TCO_KILLED="Kiled";
+				public static final String TCO_NO_TIME= "No_time";
+			}
+		}
 	}
-/*
+	
+
 	public static final String Animal = null;
 	public static final String Aquatic = null;
 	public static final String Bird = null;
@@ -52,6 +60,11 @@ public class Constants {
 	public static final String Mammal = null;
 	public static final String Reptile = null;
 	public static final String Animals = null;
-	*/
+	public static final String Species = null;
+	public static final String Employee = null;
+	public static final String TypesOfEmployee = null;
+	
+
+
 }
 
