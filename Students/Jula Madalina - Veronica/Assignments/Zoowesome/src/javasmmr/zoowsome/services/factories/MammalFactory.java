@@ -10,7 +10,7 @@ public class MammalFactory extends SpeciesFactory {
             return new Gorila();
         } else if (Constants.Animal.Mammal.Sheep.equals(type)) {
             return new Sheep();
-        } else if (Constants.Animals.Mammals.Tiger.equals(type)) {
+        } else if (Constants.Animal.Mammal.Tiger.equals(type)) {
             return new Tiger();
         } else {
             return null;

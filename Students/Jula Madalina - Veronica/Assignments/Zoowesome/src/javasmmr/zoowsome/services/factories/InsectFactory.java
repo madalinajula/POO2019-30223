@@ -1,5 +1,10 @@
 package javasmmr.zoowsome.services.factories;
 
+import javasmmr.zoowsome.models.animals.Animal;
+import javasmmr.zoowsome.models.animals.Butterfly;
+import javasmmr.zoowsome.models.animals.Fly;
+import javasmmr.zoowsome.models.animals.Ladybug;
+
 public class InsectFactory extends SpeciesFactory {
 
     @Override

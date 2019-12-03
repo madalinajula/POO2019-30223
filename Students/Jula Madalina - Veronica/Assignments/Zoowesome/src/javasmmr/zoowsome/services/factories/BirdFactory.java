@@ -1,7 +1,11 @@
 package javasmmr.zoowsome.services.factories;
 
-import javasmmr.zoowsome,models.animals.*;
+import javasmmr.zoowsome.models.animals.*;
 
+import javasmmr.zoowsome.models.animals.Animal;
+import javasmmr.zoowsome.models.animals.Parrot;
+import javasmmr.zoowsome.models.animals.Swan;
+import javasmmr.zoowsome.models.animals.Turkey;
 public class BirdFactory extends SpeciesFactory {
 
     @Override

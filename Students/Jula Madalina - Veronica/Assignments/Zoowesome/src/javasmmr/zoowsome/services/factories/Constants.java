@@ -1,19 +1,20 @@
 package javasmmr.zoowsome.services.factories;
 
-public class Constants {
+
 	
 	public final class Constants {
 		public static final class Species {
 
-			public static final String Mammals = "Mammals";
-			public static final String Reptiles = "Reptiles";
-			public static final String Birds = "Birds";
-			public static final String Aquatics = "Aquatics";
-			public static final String Insects = "Insects";
+			public static final String Mammal = "Mammals";
+			public static final String Reptile = "Reptiles";
+			public static final String Bird = "Birds";
+			public static final String Aquatic = "Aquatics";
+			public static final String Insect = "Insects";
+			
 		}
 
 		public static final class Animal {
-			public static final class Mammals {
+			public static final class Mammal {
 				public static final String Gorila = "Judo";
 				public static final String Tiger = "Blur";
 				public static final String Sheep  = "Rosie";
@@ -42,29 +43,27 @@ public class Constants {
 				public static final String Ladybug = "Bubble";
 				public static final String Fly = "Mug";
 			}
+	
 		}
-		public static final class Employees {
-			public static final class Caretakers {
+		public static final class Employee {
+			public static final class Caretaker {
 				public static final String TCO_SUCCESS= "Succes";
 				public static final String TCO_KILLED="Kiled";
 				public static final String TCO_NO_TIME= "No_time";
 			}
 		}
+		public static final class TypesOfEmployee {
+			public static final String Caretaker = "Caretaker";
+		}
+	
+		public static final class XML_TAGS {
+			public static final String ANIMAL = "ANIMAL";
+			public static final String DISCRIMINANT = "DISCRIMINANT";
+			public static final String EMPLOYEE = "EMPLOYEE";
+		}
 	}
 	
 
-	public static final String Animal = null;
-	public static final String Aquatic = null;
-	public static final String Bird = null;
-	public static final String Insect = null;
-	public static final String Mammal = null;
-	public static final String Reptile = null;
-	public static final String Animals = null;
-	public static final String Species = null;
-	public static final String Employee = null;
-	public static final String TypesOfEmployee = null;
-	
 
 
-}
 
