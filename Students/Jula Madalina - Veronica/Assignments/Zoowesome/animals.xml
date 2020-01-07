@@ -1,0 +1,51 @@
+<?xml version="1.0"?><content>
+<ANIMAL>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Rosie</name>
+	<maintenanceCost>5.2</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<normalBodyTemp>37</normalBodyTemp>
+	<percBodyHair>90</percBodyHair>
+	<DISCRIMINANT>Rosie</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Linus</name>
+	<maintenanceCost>2</maintenanceCost>
+	<dangerPerc>0.3</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<laysEggs>true</laysEggs>
+	<DISCRIMINANT>Linus</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>2</nrOfLegs>
+	<name>Lady</name>
+	<maintenanceCost>0.8</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<migrates>true</migrates>
+	<avgFlightAltitude>500</avgFlightAltitude>
+	<DISCRIMINANT>Lady</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>6</nrOfLegs>
+	<name>Bubble</name>
+	<maintenanceCost>1.3</maintenanceCost>
+	<dangerPerc>0.5</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<canFly>true</canFly>
+	<isDangerous>false</isDangerous>
+	<DISCRIMINANT>Bubble</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Gray</name>
+	<maintenanceCost>10</maintenanceCost>
+	<dangerPerc>5</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<avgSwimDepth>1000</avgSwimDepth>
+	<livingWater>saltWater</livingWater>
+	<DISCRIMINANT>Gray</DISCRIMINANT>
+</ANIMAL>
+</content>

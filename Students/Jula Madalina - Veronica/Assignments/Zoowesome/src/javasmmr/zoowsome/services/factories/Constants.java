@@ -50,6 +50,7 @@ package javasmmr.zoowsome.services.factories;
 				public static final String TCO_SUCCESS= "Succes";
 				public static final String TCO_KILLED="Kiled";
 				public static final String TCO_NO_TIME= "No_time";
+				
 			}
 		}
 		public static final class TypesOfEmployee {

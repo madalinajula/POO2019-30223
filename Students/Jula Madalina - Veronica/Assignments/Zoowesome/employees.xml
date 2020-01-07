@@ -1,0 +1,18 @@
+<?xml version="1.0"?><content>
+<EMPLOYEE>
+	<id>547832354862</id>
+	<name>Ana</name>
+	<salary>3000</salary>
+	<isDead>false</isDead>
+	<workingHours>6</workingHours>
+	<DISCRIMINANT>Ana</DISCRIMINANT>
+</EMPLOYEE>
+<EMPLOYEE>
+	<id>1584625742365</id>
+	<name>Dragos</name>
+	<salary>4000</salary>
+	<isDead>false</isDead>
+	<workingHours>12</workingHours>
+	<DISCRIMINANT>Dragos</DISCRIMINANT>
+</EMPLOYEE>
+</content>
